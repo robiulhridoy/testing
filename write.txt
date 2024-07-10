@@ -1,4 +1,3 @@
 this is txt file here
 added some new text
-extra add korlam
-aro kicu likhlam
+bug fixing
